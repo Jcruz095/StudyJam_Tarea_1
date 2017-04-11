@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">YouTube</string>
+    <string name="tv.video1.title">Google Pixel 2 Curved OLED plans, Samsung Galaxy S8 sales and meore...</string>
+    <string name="tv.video1.subtitle">Pocketnow  . 35k vistas  . Hace 7 horas</string>
+    <string name="tv.video2.title">LG V20, Review en Espaniol: EL android para Youtubers?</string>
+    <string name="tv.video2.subtitle">jevedel  . 1,8k vistas  .  Hace 10 horas</string>
+    <string name="tv.video3.title">Moto G5 Plus: Budget Smartphone King?</string>
+    <string name="tv.video3.subtitle">Marques Brownlee  . 404k vistas  . Hace 10 horas</string>
+    <string name="tv.video4.title">PROTEGELO TODO con tu HUELLA DACTILAR !!</string>
+    <string name="tv.video4.subtitle">Pro Android  .  50k vistas  .  Hace 16 horas</string>
+    <string name="tv.video5.title">Apple lanza IOS 10.3.2 Beta 2</string>
+    <string name="tv.video5.subtitle">Apple 5x1  .  19k vistas  .  Hace 16 horas</string>
 </resources>
